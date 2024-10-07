@@ -1,3 +1,13 @@
+
+/*
+* File: App.java
+* Author: Mihelik Tamás
+* Copyright: 2021, Mihelik Tamás
+* Date: 2024-10-07
+* Web: -
+* Licenc: MIT
+*
+*/
 import java.util.Scanner;
 
 public class App {
