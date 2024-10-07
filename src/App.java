@@ -13,6 +13,7 @@ public class App {
 
         System.out.print("Írd be az első átló hosszát: ");
         in = sc.nextLine();
+        sc.close();
         b = Double.parseDouble(in);
 
         Double area = 0.5*a*b;
